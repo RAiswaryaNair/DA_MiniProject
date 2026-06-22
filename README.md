@@ -45,16 +45,16 @@ The objective was to transform this raw data into an interactive, multi-page Pow
 
 # Dashboard Screenshots
 	# Executive Analysis
-	<img width="1344" height="752" alt="Executive_Analysis" src="https://github.com/user-attachments/assets/d038f5df-5b01-4105-ae41-793701237753" />
+<img width="1344" height="752" alt="Executive_Analysis" src="https://github.com/user-attachments/assets/d038f5df-5b01-4105-ae41-793701237753" />
 
 # Customer Analysis
-	<img width="1350" height="759" alt="Customer_Analysis" src="https://github.com/user-attachments/assets/2e984d75-27ce-4761-acb7-2e1a48150746" />
+<img width="1350" height="759" alt="Customer_Analysis" src="https://github.com/user-attachments/assets/2e984d75-27ce-4761-acb7-2e1a48150746" />
 	
 # Profit Analysis
-	<img width="1352" height="753" alt="Profit_Analysis" src="https://github.com/user-attachments/assets/cf09ddc6-6b70-4b8a-bea7-16d5ed4fdd2f" />
+<img width="1352" height="753" alt="Profit_Analysis" src="https://github.com/user-attachments/assets/cf09ddc6-6b70-4b8a-bea7-16d5ed4fdd2f" />
 
 # Shipment Analysis
-	<img width="1351" height="759" alt="Shipment_Analysis" src="https://github.com/user-attachments/assets/75f759b4-5c7a-4267-820d-473c5457477d" />
+<img width="1351" height="759" alt="Shipment_Analysis" src="https://github.com/user-attachments/assets/75f759b4-5c7a-4267-820d-473c5457477d" />
 
 # Learning Outcomes
 
